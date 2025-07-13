@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D7F700&width=435&lines=Welcome+to+my+GitHub+Profile+!;My+name+is+Jaydeep+Dalvi;I'm+Electronics+%26+Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 </p>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
