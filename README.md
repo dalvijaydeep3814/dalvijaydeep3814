@@ -21,11 +21,11 @@
 
 <!-- 📊 GitHub Stats -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalvijaydeep3814&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalvijaydeep3814&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" />
 </p>
 
 <!-- 🔥 Streak Stats -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalvijaydeep3814&theme=github-dark-blue" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalvijaydeep3814&theme=midnight-purple" alt="GitHub Streak" />
 </p>
 
