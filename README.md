@@ -18,3 +18,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalvijaydeep3814&show_icons=true&locale=en" alt="dalvijaydeep3814" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalvijaydeep3814&" alt="dalvijaydeep3814" /></p>
+
+
+<!-- 🔤 Most Used Languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalvijaydeep3814&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<!-- 📊 GitHub Stats -->
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalvijaydeep3814&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<!-- 🔥 Streak Stats -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalvijaydeep3814&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
+
